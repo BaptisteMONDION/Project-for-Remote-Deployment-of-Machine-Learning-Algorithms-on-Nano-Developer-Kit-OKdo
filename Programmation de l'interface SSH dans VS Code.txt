@@ -1,0 +1,4 @@
+Host NanoDevKit
+  HostName 172.18.2.142
+  User bmond
+  IdentityFile C:/Users/bmond/.ssh/id_rsa
