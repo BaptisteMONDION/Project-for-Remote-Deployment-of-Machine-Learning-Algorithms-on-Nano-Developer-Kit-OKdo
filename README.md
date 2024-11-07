@@ -1,6 +1,7 @@
 # Project of Remote Deployment of Machine Learning Algorithms on Nano Developer Kit OKdo
 
 This project outlines the configuration and secure SSH connection steps to run machine learning algorithms remotely on an NVIDIA Jetson Nano Developer Kit OKdo.
+
 Required Hardware and Software
 
 Hardware
